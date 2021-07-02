@@ -9,6 +9,7 @@
 </p>
 
 <br />
+
 - 🔭 I’m currently working on **Software Engineer in Tamilnadu, India**
 - 🌱 I’m currently learning **Azure ML, NLP and Deep Learning**
 - 💬 Ask me about **Python and NLP**
@@ -22,7 +23,25 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Predict the severity of the collision](https://jafirdonblogs.blogspot.com/2020/09/predict-severity-of-collision.html/)
+- [Performing Analysis of Meteorological Data](https://jafirdonblogs.blogspot.com/2020/10/performing-analysis-of-meteorological.html/)
+- [What is GitHub? and How to Use it?](https://jafirdonblogs.blogspot.com/2021/07/what-is-github-and-how-to-use-it.html/)
+- [Recognizing Handwritten Digits with scikit-learn](https://jafirdonblogs.blogspot.com/2020/10/recognizing-handwritten-digits-with.html/)
+<!-- BLOG-POST-LIST:END -->
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
