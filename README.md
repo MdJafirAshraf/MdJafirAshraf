@@ -16,7 +16,7 @@
 - 📫 How to reach me: [jafirdon](http://jafirdon.rf.gd/) on My Portfolio site
 - ⚡ Hobbies: Writing Blogs and Playing Games  
 
-<br /><br />
+<br />
 
 **Languages and Tools:**  
 
@@ -30,13 +30,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<br /><br />
+<br />
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<br /><br />
+<br />
 
 **📝 Latest Blog Posts**
 
@@ -48,8 +48,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- BLOG-POST-LIST:END -->
 
 
-<br /><br />
+<br />
 
 **📈 My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JafirDon&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JafirDon&show_icons=true&theme=default" alt="jafir" />
