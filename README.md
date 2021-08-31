@@ -41,8 +41,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Predict the severity of the collision](https://jafirdonblogs.blogspot.com/2020/09/predict-severity-of-collision.html)
 - [House Price Prediction using Flask for Beginners](https://techyscientists.blogspot.com/2021/07/house-price-prediction-using-flask.html)
-- [What is GitHub? and How to Use it?](https://techyscientists.blogspot.com/2021/07/what-is-github-and-how-to-use-it.html)
-- [What is Kaggle? How to use it?](https://techyscientists.blogspot.com/2021/07/what-is-kaggle-how-to-use-it.html)
+- [Breast Cancer Prediction using CNN](https://techyscientists.blogspot.com/2021/08/breast-cancer-prediction.html)
+- [Fashion Mnist Image Classification using Deep Learning for Beginners](https://techyscientists.blogspot.com/2021/08/fashion-mnist-image-classification.html)
 <!-- BLOG-POST-LIST:END -->
 
 
