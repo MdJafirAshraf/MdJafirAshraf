@@ -46,7 +46,6 @@
 - [Fashion Mnist Image Classification using Deep Learning for Beginners](https://techyscientists.blogspot.com/2021/08/fashion-mnist-image-classification.html)
 <!-- BLOG-POST-LIST:END -->
 
-
 <br />
 
 **📈 My GitHub Stats**
