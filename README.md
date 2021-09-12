@@ -9,7 +9,8 @@
 </a>
 </p>
 
-<br /><br />
+<br />
+<br />
 
 - 🔭 I’m currently working on **Software Engineer in Tamilnadu, India**
 - 🌱 I’m currently learning **Azure ML, NLP and Deep Learning**
@@ -17,6 +18,7 @@
 - 📫 How to reach me: [JafirDon](http://jafirdon.rf.gd/) on My Portfolio site
 - ⚡ Hobbies: Writing Blogs and Playing Games  
 
+<br />
 <br />
 
 **Languages and Tools Known:**  
@@ -51,6 +53,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br />
+<br />
 
 **📈 My GitHub Stats**
 
@@ -59,4 +62,18 @@
 <br />
 
 <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=JafirDon&theme=solarized-light">
+
+<br />
+<br />
+  
+#### Top Repositories
+
+
+<a href="https://github.com/JafirDon/Machine_Learning_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JafirDon&repo=Machine_Learning_Projects&theme=buefy" />
+</a>
+<a href="https://github.com/JafirDon/House-price-prediction-using-flask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JafirDon&repo=House-price-prediction-using-flask&theme=buefy" />
+</a>
+
 
