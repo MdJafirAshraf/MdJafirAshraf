@@ -36,6 +36,9 @@
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JafirDon">
+
+<br />
 
 **📝 Latest Blog Posts**
 
@@ -53,4 +56,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JafirDon&show_icons=true&theme=solarized-light" alt="jafir" /> 
 <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=JafirDon&theme=solarized-light">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JafirDon&layout=compact">
