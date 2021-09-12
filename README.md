@@ -51,4 +51,4 @@
 
 **📈 My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JafirDon&show_icons=true&theme=default" alt="jafir" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JafirDon&show_icons=true&theme=solarized-light" alt="jafir" /> 
