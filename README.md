@@ -53,4 +53,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JafirDon&show_icons=true&theme=solarized-light" alt="jafir" /> 
 <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=JafirDon&theme=solarized-light">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JafirDon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JafirDon&layout=compact">
