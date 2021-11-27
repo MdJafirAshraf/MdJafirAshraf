@@ -1,4 +1,4 @@
-<h2>👋 Hello! I'm Mohamed Jafir Ashraf.</h2>
+<h2>👋 Hello! I'm Mohamed Jafir Ashraf M</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-jafir-ashraf-bb3974192/">
