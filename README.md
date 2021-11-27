@@ -15,8 +15,8 @@
 - 👨‍💻 I’m currently working on **Software Engineer in Tamilnadu, India**
 - 🌱 I’m currently learning **Azure ML, NLP and Deep Learning**
 - 💬 Ask me about **Python, Machine Learning and Deep Learning**
-- 📫 How to reach me: [JafirDon](http://jafirdon.rf.gd/) on My Portfolio site
-- ⚡ Hobbies: Writing Blogs ([Techy Scientist](http://techyscientists.blogspot.com/)) and Playing Games🎮  
+- 📫 How to reach me: **[JafirDon](http://jafirdon.rf.gd/)** on My Portfolio site
+- ⚡ Hobbies: Writing Blogs **([Techy Scientist](http://techyscientists.blogspot.com/))** and Playing Games🎮  
 
 <br />
 <br />
