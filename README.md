@@ -48,10 +48,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Predict the severity of the collision](https://jafirdonblogs.blogspot.com/2020/09/predict-severity-of-collision.html)
 - [House Price Prediction using Flask for Beginners](https://techyscientists.blogspot.com/2021/07/house-price-prediction-using-flask.html)
+- [Fundamentals of Deep Learning | Basic Concepts](https://techyscientists.blogspot.com/2021/12/fundamentals-of-deep-learning-basic.html)
 - [Breast Cancer Prediction using CNN](https://techyscientists.blogspot.com/2021/08/breast-cancer-prediction.html)
 - [Fashion Mnist Image Classification using Deep Learning for Beginners](https://techyscientists.blogspot.com/2021/08/fashion-mnist-image-classification.html)
+- [Predict the severity of the collision](https://jafirdonblogs.blogspot.com/2020/09/predict-severity-of-collision.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
