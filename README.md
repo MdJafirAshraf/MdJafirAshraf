@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/mohamed-jafir-ashraf-bb3974192/">
   <img align="left" alt="Jafir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-  <a href="https://www.facebook.com/JafirDon2506">
-  <img align="left" alt="Jafir's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 </p>
 
 <br />
