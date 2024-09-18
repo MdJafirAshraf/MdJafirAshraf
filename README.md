@@ -9,11 +9,10 @@
 <br />
 <br />
 
-- 👨‍💻 I’m currently working on **Software Engineer in Tamilnadu, India**
-- 🌱 I’m currently learning **Computer Vision, NLP and Deep Learning**
-- 💬 Ask me about **Python, Machine Learning and Deep Learning**
-- 📫 How to reach me: **[Mohamed Jafir Ashraf](mailto:mdjafirashraf@gmail.com)** on mail
-- ⚡ Hobbies: Writing Blogs **([Techy Scientist](http://techyscientists.blogspot.com/))** and Playing Games🎮  
+- 👨‍💻 **Current Role:** Software Engineer with over 3 years of experience.
+- 🌱 **Currently Learning:** Full Stack Development, Data Structures and Algorithms (DSA), and Artificial Intelligence (AI).
+- 💬 **Ask Me About ** Python, Flask, SQL, and AI.
+- 📫 **Contact Me:** Reach out via email at [Mohamed Jafir Ashraf](mailto:mdjafirashraf@gmail.com).
 
 <br />
 <br />
