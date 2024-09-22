@@ -70,3 +70,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JafirDon&repo=House-price-prediction-using-flask&theme=buefy" />
 </a>
 
+
