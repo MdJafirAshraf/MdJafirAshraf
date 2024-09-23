@@ -55,8 +55,8 @@
 
 **📈 My GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=JafirDon&show_icons=true&theme=solarized-light" alt="jafir" />
-<img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=JafirDon&theme=solarized-light">
+<img src="https://github-readme-stats.vercel.app/api?username=MdJafirAshraf&show_icons=true&theme=solarized-light" alt="jafir" />
+<img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=MdJafirAshraf&theme=solarized-light">
 
 <br />
   
@@ -64,10 +64,10 @@
 
 
 <a href="https://github.com/JafirDon/Machine_Learning_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JafirDon&repo=Machine_Learning_Projects&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MdJafirAshraf&repo=Machine_Learning_Projects&theme=buefy" />
 </a>
 <a href="https://github.com/JafirDon/House-price-prediction-using-flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JafirDon&repo=House-price-prediction-using-flask&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MdJafirAshraf&repo=House-price-prediction-using-flask&theme=buefy" />
 </a>
 
 
