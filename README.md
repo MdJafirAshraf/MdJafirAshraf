@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JafirDon">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJafirAshraf">
 
 <br />
 <br />
@@ -63,10 +63,10 @@
 **⭐ Top Repositories**
 
 
-<a href="https://github.com/JafirDon/Machine_Learning_Projects">
+<a href="https://github.com/MdJafirAshraf/Machine_Learning_Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MdJafirAshraf&repo=Machine_Learning_Projects&theme=buefy" />
 </a>
-<a href="https://github.com/JafirDon/House-price-prediction-using-flask">
+<a href="https://github.com/MdJafirAshraf/House-price-prediction-using-flask">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MdJafirAshraf&repo=House-price-prediction-using-flask&theme=buefy" />
 </a>
 
