@@ -6,7 +6,7 @@
 </a> 
 </p>
 
-<br />
+<br /> 
 <br />
 
 - 👨‍💻 **Current Role:** Software Engineer with **3.5+ years** of experience.
