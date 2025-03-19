@@ -11,7 +11,7 @@
 
 - 👨‍💻 **Current Role:** Software Engineer with **4+ years** of experience.
 - 🌱 **Currently Learning:** Full Stack Development, Data Structures and Algorithms (DSA), and Large Language Modal (LLM).
-- 💬 **Ask Me About:** Python, Django, Flask, SQL, and AI.
+- 💬 **Ask Me About:** Python, AI, Django, Flask, and SQL.
 - 📫 **Contact Me:** Reach out via email at [Mohamed Jafir Ashraf](mailto:mdjafirashraf@gmail.com).
 
 <br />
