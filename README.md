@@ -4,17 +4,11 @@
 
 <h2>👋 Hello! I'm Mohamed Jafir Ashraf M</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-jafir-ashraf-bb3974192/">
-    <svg enable-background="new 0 0 32 32" height="32px" id="Layer_1" version="1.0" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><circle clip-rule="evenodd" cx="16" cy="16" fill="#007BB5" fill-rule="evenodd" r="16"/><g><rect fill="#FFFFFF" height="14" width="4" x="7" y="11"/><path d="M20.499,11c-2.791,0-3.271,1.018-3.499,2v-2h-4v14h4v-8c0-1.297,0.703-2,2-2c1.266,0,2,0.688,2,2v8h4v-7C25,14,24.479,11,20.499,11z" fill="#FFFFFF"/><circle cx="9" cy="8" fill="#FFFFFF" r="2"/></g></g><g/><g/><g/><g/><g/><g/></svg>
-</a>
-</p>
-
 <br />
 <br />
 
 - 👨‍💻 **Current Role:** Software Engineer with **4+ years** of experience.
-- 🌱 **Currently Learning:** Full Stack Development, Data Structures and Algorithms (DSA), and Large Language Modal (LLM).
+- 🌱 **Currently Learning:** Full Stack Development, Data Structures and Algorithms (DSA), and Large Language Model (LLM).
 - 💬 **Ask Me About:** Python, AI, Django, Flask, and SQL.
 - 📫 **Contact Me:** Reach out via email at [Mohamed Jafir Ashraf](mailto:mdjafirashraf@gmail.com).
 
@@ -22,19 +16,30 @@
 <br />
 
 **💻 Languages and Tools Known:**
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<p>
+      <a href="https://github.com/search?q=user%3AMdJafirAshraf+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMdJafirAshraf+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMdJafirAshraf+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMdJafirAshraf+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
 <br />
 <br />
@@ -44,23 +49,28 @@
 <br />
 <br />
 
-**📝 Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
-- [House Price Prediction using Flask for Beginners](https://techyscientists.blogspot.com/2021/07/house-price-prediction-using-flask.html)
-- [Fundamentals of Deep Learning | Basic Concepts](https://techyscientists.blogspot.com/2021/12/fundamentals-of-deep-learning-basic.html)
-- [Breast Cancer Prediction using CNN](https://techyscientists.blogspot.com/2021/08/breast-cancer-prediction.html)
-- [Fashion Mnist Image Classification using Deep Learning for Beginners](https://techyscientists.blogspot.com/2021/08/fashion-mnist-image-classification.html)
-- [Predict the severity of the collision](https://jafirdonblogs.blogspot.com/2020/09/predict-severity-of-collision.html)
-<!-- BLOG-POST-LIST:END -->
 
 <br />
 <br />
 
 **📈 My GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdJafirAshraf&show_icons=true&theme=solarized-light" alt="jafir" />
+<h3>🔥 Streak Stats</h3>
 
+  <p>
+    <a href="https://github.com/MdJafirAshraf/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MdJafirAshraf's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MdJafirAshraf&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MdJafirAshraf's Top Languages" src="https://MdJafirAshraf-github-readme-stats.vercel.app/api/top-langs/?username=MdJafirAshraf&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MdJafirAshraf's Github Stats" src="https://MdJafirAshraf-github-readme-stats.vercel.app/api/?username=MdJafirAshraf&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <br/>
+    <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MdJafirAshraf's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MdJafirAshraf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br />
 
 **⭐ Top Repositories**
