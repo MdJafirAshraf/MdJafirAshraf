@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Mohamed Jafir Ashraf M - Software Engineer" width="100%">
-</p>
-
 <h2>👋 Hello! I'm Mohamed Jafir Ashraf M</h2>
 
 <br />
