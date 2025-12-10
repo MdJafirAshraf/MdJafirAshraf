@@ -62,12 +62,3 @@
     <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
     <a href="https://github.com/MdJafirAshraf/github-readme-activity-graph"><img alt="MdJafirAshraf's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MdJafirAshraf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br />
-
-**⭐ Top Repositories**
-
-<a href="https://github.com/MdJafirAshraf/Machine_Learning_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MdJafirAshraf&repo=Machine_Learning_Projects&theme=buefy" />
-</a>
-<a href="https://github.com/MdJafirAshraf/House-price-prediction-using-flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MdJafirAshraf&repo=House-price-prediction-using-flask&theme=buefy" />
-</a>
