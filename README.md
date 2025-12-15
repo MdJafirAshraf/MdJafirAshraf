@@ -59,5 +59,6 @@
   <h3>💻 GitHub Profile Stats</h3>
     <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
     <br />
+    <br />
     <a href="https://github.com/MdJafirAshraf/github-readme-activity-graph"><img alt="MdJafirAshraf's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MdJafirAshraf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br />
