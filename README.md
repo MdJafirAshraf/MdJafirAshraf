@@ -41,8 +41,6 @@
 <br />
 
 
-<br />
-
 **📈 My GitHub Stats**
 
 <h3>🔥 Streak Stats</h3>
