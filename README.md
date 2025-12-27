@@ -1,7 +1,6 @@
 <h2>👋 Hello! I'm Mohamed Jafir Ashraf M</h2>
 
 <br />
-<br />
 
 - 👨‍💻 **Current Role:** Software Engineer with **4+ years** of experience.
 - 🌱 **Currently Learning:** Full Stack Development, AI Agent, MCP Server, and Large Language Models (LLM).
