@@ -4,7 +4,7 @@
 
 - 👨‍💻 **Current Role:** Software Engineer with **4+ years** of experience.
 - 🌱 **Currently Learning:** Full Stack Development, AI Agent, MCP Server, and Large Language Models (LLM).
-- 💬 **Ask Me About:** Python, AI, Django, Flask, and SQL.
+- 💬 **Ask Me About:** Python, AI, FastAPI, LLM, MCP, and AI Agent.
 - 📫 **Contact Me:** Reach out via email at [Mohamed Jafir Ashraf](mailto:mdjafirashraf@gmail.com).
 
 <br />
